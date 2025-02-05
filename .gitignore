@@ -1,0 +1,6 @@
+__pycache__/
+.env
+data/raw/
+data/processed/
+config/
+.DS_Store
